@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGpt</div>
         <div className={styles["sidebar-sub-title"]}>
-          添加微信h285426134 提供更多技术支持
+          朗玛峰教育科技
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
@@ -166,46 +166,6 @@ export function SideBar(props: { className?: string }) {
         </a>
       </div>
 
-      <div className={styles["sidebar-bar-button"]}>
-        <a href="https://prm.chatgptvip.info" target="_blank">
-          <IconButton
-            icon={<GithubIcon />}
-            text='ChatGpt提示词工具'
-            shadow
-          />
-        </a>
-      </div>
-
-      <div className={styles["sidebar-bar-button"]}>
-        <a href="https://painted-toucan-5e6.notion.site/ChatGpt-30cbb93b65504c90b3aac21b4e9968ea?pvs=4" target="_blank">
-          <IconButton
-            icon={<GithubIcon />}
-            text='ChatGpt独享账号购买'
-            shadow
-          />
-        </a>
-      </div>
-
-      <div className={styles["sidebar-bar-button"]}>
-        <a href="https://docs.qq.com/doc/DZHJQam5PZG5JelRO?u=355c394f2acc42e4bec073093f2b96f8" target="_blank">
-          <IconButton
-            icon={<GithubIcon />}
-            text='微信使用Midjourney绘图'
-            shadow
-          />
-        </a>
-      </div>
-
-      <div className={styles["sidebar-bar-button"]}>
-        <a href="https://docs.qq.com/doc/DZGJ4clJmWUpYdWZN?u=355c394f2acc42e4bec073093f2b96f8" target="_blank">
-          <IconButton
-            icon={<GithubIcon />}
-            text='500元搭建各种独立web站点'
-            shadow
-          />
-        </a>
-      </div>
-
       <div
         className={styles["sidebar-body"]}
         onClick={(e) => {
@@ -234,7 +194,7 @@ export function SideBar(props: { className?: string }) {
               <IconButton icon={<SettingsIcon />} shadow />
             </Link>
           </div> */}
-          <div className={styles["sidebar-action"]}>
+          {/* <div className={styles["sidebar-action"]}>
             <Link to={Path.Settings}>
               <IconButton
                 icon={<SettingsIcon />}
@@ -242,7 +202,7 @@ export function SideBar(props: { className?: string }) {
                 shadow
               />
             </Link>
-          </div>
+          </div> */}
           {/* <div className={styles["sidebar-action"]}>
             <a href="https://chatgptvip.shop/chatgpt%e4%b8%ad%e6%96%87%e8%b0%83%e6%95%99%e6%8c%87%e5%8d%97" target="_blank">
               <IconButton icon={<GithubIcon />} shadow />
