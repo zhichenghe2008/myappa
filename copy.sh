@@ -70,8 +70,48 @@ https://two.chatgptvip.info
 
 针对公司的独立站点：
 配置在一个公司的独立站点上面：
+weba
 lmf.chatgptvip.shop  lmf.chatgptvip.info
 18zkcpekdnjevgof07@16888mail.com----jvnv8wbAn----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
+lmf.chatgptvip.info  作为我的推广站点--设置了访问密码： *DcuIuMzB2hJStXO
+
+
+webc:
+大连华泰臣科技服务有限公司
+htc.chatgptvip.shop
+git@github.com.zhichenghe2008:zhichenghe2008/myappc.git
+
+qiye.chatgptvip.info  展示站点样板----webb
+0zl7lrycw622qy94l3@16888mail.com----eA64m7kBV----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
+当前密码： xpo9F%!bifd!&gIS  每周更新一次
+xpo9F%!bifd!&gIS
+
+
+z$KEShA8IaPLTpO4
+f6majifd!%&mnS@5
+GIfsaE&n8C!9V#ZK
+R0IK14xyw#IZdHqE
+LZhapTXuuCKYJ&nN
+gjMP@SOBWkt@poMl
+ADPCHVjeSshgJTwJ
+JuEpb^yH5bs!2gkW
+nw9eUaK@DnlaC$6S
+Psg%X%@7X^oC8fOy
+z5Ctl0xx7uY@mFYl
+gvL^2A32LJI%NH@m
+pouBKvYQSPpAGpjF
+G@@@$O33G5fqaxdQ
+7J3LW!h!eJ9kw7Dn
+GOevQqUR&QnqtIBY
+GwDWJP0rY6zyr0c1
+LD9PbBjx#hKjbEo*
+k4#X!Bi!WTeTSSe^
+
+面向个人用户的chatgpt 站点样列：  https://www.chatgptvip.info      
+面向企业的独立chatgpt站点样列：   https://lmf.chatgptvip.info
+企业chatgpt样板站点访问密码：  xpo9F%!bifd!&gIS  （一周有效期）
+
+
 '
 
 
